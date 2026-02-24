@@ -1,29 +1,26 @@
-# Scoop Bucket for DittoFS
+# marmos91/scoop-bucket
 
-[Scoop](https://scoop.sh) package manifests for [DittoFS](https://github.com/marmos91/dittofs) — a modular virtual filesystem with pluggable storage backends.
+Scoop bucket for my projects.
 
 ## Usage
 
 ```powershell
-scoop bucket add dittofs https://github.com/marmos91/scoop-bucket
-scoop install dfs       # Server daemon
-scoop install dfsctl    # Client CLI
+scoop bucket add marmos91 https://github.com/marmos91/scoop-bucket
+scoop install marmos91/<app>
 ```
 
-## Available packages
+## Available Apps
 
-| Package | Description |
-|---------|-------------|
-| **dfs** | DittoFS server daemon |
-| **dfsctl** | DittoFS CLI client for remote server management |
+### DittoFS
 
-## Updating
+A modular virtual filesystem with pluggable storage backends. [Repository](https://github.com/marmos91/dittofs)
+
+| App | Description |
+|-----|-------------|
+| `dfs` | DittoFS server daemon |
+| `dfsctl` | DittoFS CLI client for remote server management |
 
 ```powershell
-scoop update
-scoop update dfs dfsctl
+scoop install marmos91/dfs
+scoop install marmos91/dfsctl
 ```
-
-## How it works
-
-Package manifests in this repository are automatically published by [GoReleaser](https://goreleaser.com) on each DittoFS release. Do not edit them manually.
