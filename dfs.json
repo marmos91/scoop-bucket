@@ -1,0 +1,22 @@
+{
+    "version": "0.7.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/marmos91/dittofs/releases/download/v0.7.0/dfs_0.7.0_Windows_x86_64.zip",
+            "bin": [
+                "dfs.exe"
+            ],
+            "hash": "abf8e140e8242e751fd4ec10511b2b6b677328e04a9f8637f8464f7703d1db84"
+        },
+        "arm64": {
+            "url": "https://github.com/marmos91/dittofs/releases/download/v0.7.0/dfs_0.7.0_Windows_arm64.zip",
+            "bin": [
+                "dfs.exe"
+            ],
+            "hash": "f30b39e83609b0baa1f4c6073d22ba5d8935c66f0bd24df847d234a9d86c66f8"
+        }
+    },
+    "homepage": "https://github.com/marmos91/dittofs",
+    "license": "MIT",
+    "description": "DittoFS server daemon — modular virtual filesystem with pluggable storage backends"
+}
