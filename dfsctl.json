@@ -1,0 +1,22 @@
+{
+    "version": "0.7.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/marmos91/dittofs/releases/download/v0.7.0/dfsctl_0.7.0_Windows_x86_64.zip",
+            "bin": [
+                "dfsctl.exe"
+            ],
+            "hash": "d2ccd3e66b70c4fdffdf29a788664ff6d67cb6bef1bac3c40d0912a9896f71c7"
+        },
+        "arm64": {
+            "url": "https://github.com/marmos91/dittofs/releases/download/v0.7.0/dfsctl_0.7.0_Windows_arm64.zip",
+            "bin": [
+                "dfsctl.exe"
+            ],
+            "hash": "f577f6ca160240a2763a144b4654e61ddf3598639b51a93a8d022bf2cefece4b"
+        }
+    },
+    "homepage": "https://github.com/marmos91/dittofs",
+    "license": "MIT",
+    "description": "DittoFS CLI client — remote management for DittoFS servers"
+}
