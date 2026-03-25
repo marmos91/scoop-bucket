@@ -1,19 +1,19 @@
 {
-    "version": "0.9.6",
+    "version": "0.9.7",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/marmos91/dittofs/releases/download/v0.9.6/dfs_0.9.6_Windows_x86_64.zip",
+            "url": "https://github.com/marmos91/dittofs/releases/download/v0.9.7/dfs_0.9.7_Windows_x86_64.zip",
             "bin": [
                 "dfs.exe"
             ],
-            "hash": "9321155b424b1571201b094da89a65faadf63d842f9e321510824d358665c8db"
+            "hash": "a164e13763de93d1fb7aeefcea8495760aead2495e3b71f753d1b28d6942f55f"
         },
         "arm64": {
-            "url": "https://github.com/marmos91/dittofs/releases/download/v0.9.6/dfs_0.9.6_Windows_arm64.zip",
+            "url": "https://github.com/marmos91/dittofs/releases/download/v0.9.7/dfs_0.9.7_Windows_arm64.zip",
             "bin": [
                 "dfs.exe"
             ],
-            "hash": "e5df100e408a7663a0de69e9abc34fcb7a26bae98eda13703c18ab62ff967821"
+            "hash": "684dc0bf87e6b017bbb0e538d13dd64d98a80dbfe8c852f837634f7d9e8fac83"
         }
     },
     "homepage": "https://github.com/marmos91/dittofs",
