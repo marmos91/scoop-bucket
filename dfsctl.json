@@ -6,14 +6,14 @@
             "bin": [
                 "dfsctl.exe"
             ],
-            "hash": "687219bf6dc562b56432321a232a0a86b5965b6a42f68558711d3522d053ae04"
+            "hash": "06d3abb34a668f80efedf79202d259a0943a6d5d1fe42cfa63b3ed4e399d4749"
         },
         "arm64": {
             "url": "https://github.com/marmos91/dittofs/releases/download/v0.11.1/dfsctl_0.11.1_Windows_arm64.zip",
             "bin": [
                 "dfsctl.exe"
             ],
-            "hash": "fec59cda8a0837247c2b3cb4a96b8fa9002ad915e85279414197f87a188cb5f2"
+            "hash": "d87e8e0fb78d1029ad3d4e66063e19bc5e382dc6adb31b6ba1e5f9b455645aef"
         }
     },
     "homepage": "https://github.com/marmos91/dittofs",
