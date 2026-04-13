@@ -6,14 +6,14 @@
             "bin": [
                 "dfs.exe"
             ],
-            "hash": "2d40c30286728cdc4d9cbb691c8f129fa5105957d0e6d9099ed7462609ee4bd3"
+            "hash": "3b8789864f5e8c149e1304d65c1da85e02d6c5cfbb296d6acac082b508217cbf"
         },
         "arm64": {
             "url": "https://github.com/marmos91/dittofs/releases/download/v0.11.1/dfs_0.11.1_Windows_arm64.zip",
             "bin": [
                 "dfs.exe"
             ],
-            "hash": "bf1a9d95307f2018fb2ffaaad246327fae48a97750c98eac7d2f5f77f275774c"
+            "hash": "d096f68e728779a6f97ef47e418d5d3cd342fdd8f2f76ae2f32a43f21c62bba0"
         }
     },
     "homepage": "https://github.com/marmos91/dittofs",
