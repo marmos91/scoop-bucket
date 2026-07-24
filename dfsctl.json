@@ -1,19 +1,19 @@
 {
-    "version": "0.28.1",
+    "version": "0.29.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/marmos91/dittofs/releases/download/v0.28.1/dfsctl_0.28.1_Windows_x86_64.zip",
+            "url": "https://github.com/marmos91/dittofs/releases/download/v0.29.0/dfsctl_0.29.0_Windows_x86_64.zip",
             "bin": [
                 "dfsctl.exe"
             ],
-            "hash": "a27a11a5fdeb07eb1d2baa04d78434d11e8a0ad3c345cf56c0e8a01d930167b5"
+            "hash": "e7af207dbc4f16baf77cc36e004dc9d79fb3b839ff746733a22b532e045d19d1"
         },
         "arm64": {
-            "url": "https://github.com/marmos91/dittofs/releases/download/v0.28.1/dfsctl_0.28.1_Windows_arm64.zip",
+            "url": "https://github.com/marmos91/dittofs/releases/download/v0.29.0/dfsctl_0.29.0_Windows_arm64.zip",
             "bin": [
                 "dfsctl.exe"
             ],
-            "hash": "a73991b664f54e88be50fda70fdebbc1e7195c79bfbc16e7f76c4287522ff71d"
+            "hash": "92d18bc82a4685c560f103a5abf8ad5355bdf1b20c7ed7f98a0886e4d0ab4a59"
         }
     },
     "homepage": "https://github.com/marmos91/dittofs",
