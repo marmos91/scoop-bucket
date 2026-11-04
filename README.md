@@ -2,25 +2,14 @@
 
 Scoop bucket for my projects.
 
-## Usage
+## DittoFS has moved
+
+`dfs` and `dfsctl` now live in [cubbit/scoop-bucket](https://github.com/cubbit/scoop-bucket):
 
 ```powershell
-scoop bucket add marmos91 https://github.com/marmos91/scoop-bucket
-scoop install marmos91/<app>
-```
-
-## Available Apps
-
-### DittoFS
-
-A modular virtual filesystem with pluggable storage backends. [Repository](https://github.com/marmos91/dittofs)
-
-| App | Description |
-|-----|-------------|
-| `dfs` | DittoFS server daemon |
-| `dfsctl` | DittoFS CLI client for remote server management |
-
-```powershell
-scoop install marmos91/dfs
-scoop install marmos91/dfsctl
+scoop uninstall dfs dfsctl
+scoop bucket rm marmos91
+scoop bucket add cubbit https://github.com/cubbit/scoop-bucket
+scoop install cubbit/dfs
+scoop install cubbit/dfsctl
 ```
